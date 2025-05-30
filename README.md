@@ -1,7 +1,7 @@
 # NeurIPS Paper Scraper
 
 ## Overview
-This project implements web scrapers in both Java and Python to extract research paper details from the NeurIPS Proceedings website (https://papers.nips.cc). The goal is to gather data for papers from the last five years, handling challenges such as pagination and JavaScript-rendered content.
+This project implements web scrapers in Python to extract research paper details from the NeurIPS Proceedings website (https://papers.nips.cc). The goal is to gather data for papers from the last five years, handling challenges such as pagination and JavaScript-rendered content.
 
 ## What is Web Scraping?
 Web scraping is the automated process of extracting information from websites. It is useful for academic research as it allows researchers to gather large amounts of data quickly, enabling analysis of trends, patterns, and insights that would be difficult to obtain manually.
@@ -40,8 +40,5 @@ Web scraping is the automated process of extracting information from websites. I
 ## What I Learned
 This project enhanced my skills in web scraping, understanding the intricacies of data extraction, and the importance of ethical considerations in handling web data.
 
-## Installation
-1. Clone the repository:
+
    
-   git clone https://github.com/ibraheem887/neurips-paper-scraper.git
-   cd neurips-paper-scraper
